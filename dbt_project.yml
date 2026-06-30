@@ -11,5 +11,5 @@ macro-paths: ["macros"]
 test-paths: ["tests"]
 
 models:
-  my_project:
+  demo_dbt:
     +materialized: view
